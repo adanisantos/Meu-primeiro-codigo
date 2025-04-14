@@ -1,5 +1,5 @@
 # Meu-primeiro-codigo
-meu primeiro codigo na linguagem de programacao em blocos
+Meu primeiro código na linguagem de programação em blocos
 
 Projeto feito no ano de 2013
 Plataforma: Scratch MIT
